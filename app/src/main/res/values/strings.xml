@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LuisRodriguezMuñozTicsTesoemPractica1</string>
+    <string name="nombre">luis rodriguez muñoz</string>
+    <string name="carrera">Ing Tics</string>
+    <string name="grupo">7T11</string>
+    <string name="materia">desarrollo de aplicaciones moviles</string>
+    <string name="PROFESOR">Victor Hugo De la O</string>
+</resources>
